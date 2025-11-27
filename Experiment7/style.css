@@ -37,7 +37,7 @@ body {
 
 /* Float Example */
 .float-menu a {
-  float: right;
+  float: left;
   background-color: #e67e22;
   color: white;
   padding: 10px 15px;
@@ -45,11 +45,4 @@ body {
   text-decoration: none;
 }
 
-/* Clear Example */
-.clear-example {
-  clear: both;       /* This stops floating elements */
-  background-color: #f4f4f4;
-  padding: 10px;
-  margin-top: 20px;
-  border: 1px solid #ccc;
-}
+
